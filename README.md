@@ -1,7 +1,7 @@
 # chat-server
 
 ### Run Server
-```js
+```
 Run command in terminal :
 npm install
 create .env with your credentials as mentioned
